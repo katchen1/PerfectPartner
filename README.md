@@ -30,3 +30,6 @@ https://mechanicsofmagic.com/2022/05/30/perfect-partner/
 *Advisor:* Khuyen Le
 
 <img width="617" alt="Screen-Shot-2022-05-30-at-12 59 25-PM" src="https://user-images.githubusercontent.com/59420335/190196648-3616560a-837a-4c87-9b59-95d4883b8ecf.jpeg">
+
+## Video of other games that I created
+https://youtu.be/yD4ky70KELc
