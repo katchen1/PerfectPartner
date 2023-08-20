@@ -22,14 +22,8 @@ https://mechanicsofmagic.com/2022/05/30/perfect-partner/
 <img width="617" alt="Screen-Shot-2022-05-30-at-12 59 25-PM" src="https://user-images.githubusercontent.com/59420335/190199821-e679d0df-c357-4b02-90cd-a76664c3f381.png">
 <img width="617" alt="Screen-Shot-2022-05-30-at-12 59 25-PM" src="https://user-images.githubusercontent.com/59420335/190200279-de864ff7-d960-4066-b694-dec48cd4c0c9.png">
 
-## Meet the team
+## Team Members
 *Developers:* Katherine Chen, Esteban Wu, Zoe Lynch, Natasha Kacharia, Delali Azamati, Yousif Mohsen
-
-<img width="617" alt="Screen-Shot-2022-05-30-at-12 59 25-PM" src="https://user-images.githubusercontent.com/59420335/190195700-f18fbd12-5429-4587-bb2b-187260bfed20.jpeg">
-
 *Advisor:* Khuyen Le
 
-<img width="617" alt="Screen-Shot-2022-05-30-at-12 59 25-PM" src="https://user-images.githubusercontent.com/59420335/190196648-3616560a-837a-4c87-9b59-95d4883b8ecf.jpeg">
 
-## Video of other games that I created
-https://youtu.be/yD4ky70KELc
