@@ -24,6 +24,8 @@ https://mechanicsofmagic.com/2022/05/30/perfect-partner/
 
 ## Team Members
 *Developers:* Katherine Chen, Esteban Wu, Zoe Lynch, Natasha Kacharia, Delali Azamati, Yousif Mohsen
+
 *Advisor:* Khuyen Le
+
 
 
